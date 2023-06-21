@@ -4,7 +4,7 @@ This report briefly shows the analysis results that represent the European econo
 
 📈 Analyzed time period: 2004 - 2012
 
-👭 Authors: Trang Ton and Quynh Phung
+👭 Authors: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Trang Ton](https://www.linkedin.com/in/trang-ton/) and [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Quynh Phung](https://www.linkedin.com/in/phungngocquynh)
 
 Raw data were extracted from [Osiris Database](https://www.bvdinfo.com/en-gb/our-products/data/international/osiris), which provides information on listed and unlisted firms worldwide, by Bureau van Dijk, a Moody's Analytics Company.
 
