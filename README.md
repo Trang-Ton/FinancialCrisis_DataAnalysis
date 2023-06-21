@@ -8,7 +8,7 @@ This report briefly shows the analysis results that represent the European econo
 
 Raw data were extracted from [Osiris Database](https://www.bvdinfo.com/en-gb/our-products/data/international/osiris), which provides information on listed and unlisted firms worldwide, by Bureau van Dijk, a Moody's Analytics Company.
 
-Python source code:
+[Python source code](https://github.com/Trang-Ton/FinancialCrisis_DataAnalysis/blob/main/Data%20Analysis.ipynb)
 
 The study is intended to represent the EU economy, hence it includes companies from the Eurozone including 19 out of the 27 EU countries: 
 
